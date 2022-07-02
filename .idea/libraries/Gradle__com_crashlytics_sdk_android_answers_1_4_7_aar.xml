@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:answers:1.4.7@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/263f7b99283cfa52dc24220f6b075dde/jetified-answers-1.4.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/263f7b99283cfa52dc24220f6b075dde/jetified-answers-1.4.7/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/263f7b99283cfa52dc24220f6b075dde/jetified-answers-1.4.7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2ae406f82547042f44071e8a9f9bdd36/jetified-answers-1.4.7/res" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2ae406f82547042f44071e8a9f9bdd36/jetified-answers-1.4.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2ae406f82547042f44071e8a9f9bdd36/jetified-answers-1.4.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

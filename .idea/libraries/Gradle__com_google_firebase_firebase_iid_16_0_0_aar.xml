@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-iid:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b00d6b68563e24c5e31e0c5e6c3dd6a6/jetified-firebase-iid-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b00d6b68563e24c5e31e0c5e6c3dd6a6/jetified-firebase-iid-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b00d6b68563e24c5e31e0c5e6c3dd6a6/jetified-firebase-iid-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b32d06f1f01801de28655422c90e8a33/jetified-firebase-iid-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b32d06f1f01801de28655422c90e8a33/jetified-firebase-iid-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b32d06f1f01801de28655422c90e8a33/jetified-firebase-iid-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

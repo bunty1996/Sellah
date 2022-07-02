@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/63e262db62873f7765bcae2d113a0e71/jetified-firebase-messaging-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/63e262db62873f7765bcae2d113a0e71/jetified-firebase-messaging-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/63e262db62873f7765bcae2d113a0e71/jetified-firebase-messaging-17.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/5471818b4c96ee394f625377bab516ed/jetified-firebase-messaging-17.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/5471818b4c96ee394f625377bab516ed/jetified-firebase-messaging-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/5471818b4c96ee394f625377bab516ed/jetified-firebase-messaging-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

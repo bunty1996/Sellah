@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.omadahealth:swipy:1.2.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a879848b576e822e9c60ee3f04701d6b/jetified-swipy-1.2.3/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2c0dc8cc42f7025c38c1691de861df28/jetified-swipy-1.2.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a879848b576e822e9c60ee3f04701d6b/jetified-swipy-1.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a879848b576e822e9c60ee3f04701d6b/jetified-swipy-1.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a879848b576e822e9c60ee3f04701d6b/jetified-swipy-1.2.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2c0dc8cc42f7025c38c1691de861df28/jetified-swipy-1.2.3/res" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2c0dc8cc42f7025c38c1691de861df28/jetified-swipy-1.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/2c0dc8cc42f7025c38c1691de861df28/jetified-swipy-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/97349f2aa2b9b274884ebaaae9e0b7d5d4f5536b/swipy-1.2.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/97349f2aa2b9b274884ebaaae9e0b7d5d4f5536b/swipy-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/26d3335b8535ec1d652d6134fa8df2b9d3169877/swipy-1.2.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/26d3335b8535ec1d652d6134fa8df2b9d3169877/swipy-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

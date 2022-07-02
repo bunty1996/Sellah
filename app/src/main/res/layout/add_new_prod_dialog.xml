@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_gravity="bottom"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:background="@drawable/round_border_testemonialheader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/linn"
+            android:layout_width="match_parent"
+            android:elevation="@dimen/_5sdp"
+            android:background="@drawable/round_border_testemonialheader"
+            android:layout_height="?android:attr/actionBarSize">
+
+            <TextView
+                android:layout_marginLeft="@dimen/_15sdp"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Product"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/_13sdp" />
+
+        </RelativeLayout>
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_80sdp"
+            android:layout_below="@id/linn"
+            android:src="@drawable/sellah_icon_red"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_10sdp"
+            />
+
+
+        <TextView
+            android:textColor="@color/grey_font"
+            android:id="@+id/text_better"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:gravity="center"
+            android:maxLines="2"
+            android:text="Sign up for Stripe to receive card payments." />
+
+
+<!--        <Button-->
+<!--            android:id="@+id/excited_btn"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="@dimen/_30sdp"-->
+<!--            android:layout_below="@id/text_better"-->
+<!--            android:layout_marginTop="@dimen/_20sdp"-->
+<!--            android:layout_marginBottom="@dimen/_30sdp"-->
+<!--            android:layout_marginLeft="@dimen/_15sdp"-->
+<!--            android:layout_marginRight="@dimen/_15sdp"-->
+<!--            android:background="@drawable/round_red_border_testimonial"-->
+<!--            android:text="I'm Excited!"-->
+<!--            android:textAllCaps="false"-->
+<!--            android:textColor="@color/colorWhite" />-->
+        <Button
+            android:id="@+id/textOk"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_below="@id/text_better"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:background="@drawable/round_red_border_testimonial"
+            android:text="Sign me up!"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite" />
+        <Button
+            android:id="@+id/textCancel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_below="@id/textOk"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginRight="@dimen/_15sdp"
+            android:background="@drawable/round_red_border_strock"
+            android:text="Maybe later"
+            android:textAllCaps="false"
+            android:textColor="@color/colorRed" />
+    </RelativeLayout>
+</RelativeLayout>
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:orientation="vertical"-->
+<!--    android:gravity="center"-->
+<!--    android:layout_marginStart="30dp"-->
+<!--    android:layout_marginEnd="30dp"-->
+<!--    app:cardElevation="10dp"-->
+
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto">-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical">-->
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Add Product"-->
+<!--            android:layout_marginTop="3dp"-->
+<!--            android:textSize="20sp"-->
+<!--            android:textAlignment="center"-->
+<!--            android:padding="4dp"-->
+<!--            android:textColor="@color/colorBlack"-->
+<!--           />-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:padding="4dp"-->
+<!--            android:layout_marginTop="5dp"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:layout_marginEnd="20dp"-->
+<!--            >-->
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Sign up for Stripe to receive card payments"-->
+<!--                android:textColor="@color/colorBlack"-->
+<!--                android:padding="10dp"-->
+<!--                android:gravity="center"-->
+<!--                android:textSize="16sp"/>-->
+
+<!--        </LinearLayout>-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:layout_marginStart="20dp"-->
+<!--            android:layout_marginEnd="20dp"-->
+<!--            android:padding="4dp"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginBottom="10dp"-->
+<!--            android:weightSum="2">-->
+<!--            <TextView-->
+<!--                android:id="@+id/textOk"-->
+<!--                android:layout_weight="1"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textAllCaps="true"-->
+<!--                android:textColor="@color/colorPrimary"-->
+<!--                android:gravity="center"-->
+<!--                android:textSize="14sp"-->
+<!--                android:text="@string/ok"/>-->
+<!--            <View-->
+<!--                android:layout_width="1dp"-->
+<!--                android:layout_height="15dp"-->
+<!--                android:background="@color/colorPrimary"-->
+<!--                android:layout_marginStart="20dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:layout_marginEnd="20dp"/>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/textCancel"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:gravity="center"-->
+<!--                android:text="maybe later"-->
+<!--                android:textColor="@color/colorPrimary"-->
+<!--                android:textSize="14sp" />-->
+<!--        </LinearLayout>-->
+<!--    </LinearLayout>-->
+
+<!--</androidx.cardview.widget.CardView>-->

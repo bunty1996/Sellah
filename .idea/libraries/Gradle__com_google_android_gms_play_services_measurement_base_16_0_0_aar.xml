@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-base:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c9697d14631a476bb1b33cf800204e5d/play-services-measurement-base-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:core:0.9.5.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6bc784beafe6d267b42a6b28362edc0b/jetified-core-0.9.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6bc784beafe6d267b42a6b28362edc0b/jetified-core-0.9.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6bc784beafe6d267b42a6b28362edc0b/jetified-core-0.9.5.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b5b591d0ca431ec0e71b85fd3dd659d8/jetified-core-0.9.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b5b591d0ca431ec0e71b85fd3dd659d8/jetified-core-0.9.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b5b591d0ca431ec0e71b85fd3dd659d8/jetified-core-0.9.5.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.5.0/ba9908fa7dabcb10780de4369e00eda98c8a0cd1/core-0.9.5.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.5.0/ba9908fa7dabcb10780de4369e00eda98c8a0cd1/core-0.9.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.5.0/dc2767e1cacba9c95b4cfbf34920f2fe55ea9677/core-0.9.5.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.5.0/dc2767e1cacba9c95b4cfbf34920f2fe55ea9677/core-0.9.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

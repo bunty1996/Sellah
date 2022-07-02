@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.GoodieBag:Pinview:v1.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45cc01579c224009e78e0032e8026f60/jetified-Pinview-v1.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45cc01579c224009e78e0032e8026f60/jetified-Pinview-v1.3/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45cc01579c224009e78e0032e8026f60/jetified-Pinview-v1.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/f82d91fbd2d3ddd0c05629f7bdde4a6b/jetified-Pinview-v1.3/res" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/f82d91fbd2d3ddd0c05629f7bdde4a6b/jetified-Pinview-v1.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/f82d91fbd2d3ddd0c05629f7bdde4a6b/jetified-Pinview-v1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.GoodieBag/Pinview/v1.3/d7e78e93331c8f40da22fb16c9d177301d6cc15b/Pinview-v1.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.GoodieBag/Pinview/v1.3/d7e78e93331c8f40da22fb16c9d177301d6cc15b/Pinview-v1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

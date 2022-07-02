@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ozodrukh:CircularReveal:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/afa6eee3fcfa7e8d4c521221d187c1b2/CircularReveal-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/afa6eee3fcfa7e8d4c521221d187c1b2/CircularReveal-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/afa6eee3fcfa7e8d4c521221d187c1b2/CircularReveal-2.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c1878833ed38e30c1ae738f4c8836189/CircularReveal-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c1878833ed38e30c1ae738f4c8836189/CircularReveal-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c1878833ed38e30c1ae738f4c8836189/CircularReveal-2.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.ozodrukh/CircularReveal/2.0.1/dd828832d229a9dd9c087b9dcdfadc082eb11533/CircularReveal-2.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.ozodrukh/CircularReveal/2.0.1/dd828832d229a9dd9c087b9dcdfadc082eb11533/CircularReveal-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.ozodrukh/CircularReveal/2.0.1/4c5d4e134c60b1bb316a2b87d3aa13685dee3e96/CircularReveal-2.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.ozodrukh/CircularReveal/2.0.1/4af3dbe3286757519c60900e5deea3137dde3b03/CircularReveal-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

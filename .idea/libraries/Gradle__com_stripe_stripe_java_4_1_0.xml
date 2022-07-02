@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-java:4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/e4995770128d3962fc9ea34620bb3164ea97274b/stripe-java-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/e4995770128d3962fc9ea34620bb3164ea97274b/stripe-java-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/b9ef5809e1cf79a9bca8ba4f35ced7c53c6bb78a/stripe-java-4.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/b9ef5809e1cf79a9bca8ba4f35ced7c53c6bb78a/stripe-java-4.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/7d9243c8788633b85db04b830f24feeee282ad0b/stripe-java-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.stripe/stripe-java/4.1.0/7d9243c8788633b85db04b830f24feeee282ad0b/stripe-java-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

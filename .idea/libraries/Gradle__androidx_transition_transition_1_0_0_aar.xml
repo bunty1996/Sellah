@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.transition:transition:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/493454b3f4bb5d0a9934772093e07f0a/transition-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/androidx.transition/transition/1.0.0/9d3d152e753d702c6ae501f0d296e09ddec2fc6/transition-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-measurement-connector:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45de766099072efd8590c0c41a7075f7/jetified-firebase-measurement-connector-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45de766099072efd8590c0c41a7075f7/jetified-firebase-measurement-connector-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/45de766099072efd8590c0c41a7075f7/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/9cd3fb5f4647114ea403bd53d758878a/jetified-firebase-measurement-connector-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/9cd3fb5f4647114ea403bd53d758878a/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/9cd3fb5f4647114ea403bd53d758878a/jetified-firebase-measurement-connector-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

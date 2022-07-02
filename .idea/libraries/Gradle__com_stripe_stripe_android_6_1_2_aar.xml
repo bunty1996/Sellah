@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:stripe-android:6.1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6a6b704695115af63c0930e3ceeb292b/jetified-stripe-android-6.1.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b2193414872f10452a99f96a8f46c20f/jetified-stripe-android-6.1.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6a6b704695115af63c0930e3ceeb292b/jetified-stripe-android-6.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6a6b704695115af63c0930e3ceeb292b/jetified-stripe-android-6.1.2/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/6a6b704695115af63c0930e3ceeb292b/jetified-stripe-android-6.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b2193414872f10452a99f96a8f46c20f/jetified-stripe-android-6.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b2193414872f10452a99f96a8f46c20f/jetified-stripe-android-6.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/b2193414872f10452a99f96a8f46c20f/jetified-stripe-android-6.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.stripe/stripe-android/6.1.2/ccc1abd0893f9fb9a20a33eebd93cf9c934995d/stripe-android-6.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.stripe/stripe-android/6.1.2/ccc1abd0893f9fb9a20a33eebd93cf9c934995d/stripe-android-6.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.stripe/stripe-android/6.1.2/6fccd7b95baf59595a315b387e7c7550d7c20436/stripe-android-6.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.stripe/stripe-android/6.1.2/6fccd7b95baf59595a315b387e7c7550d7c20436/stripe-android-6.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

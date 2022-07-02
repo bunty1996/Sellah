@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sharish:CreditCardView:v1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/31bf74c8336715d04627bda21018614a/jetified-CreditCardView-v1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/31bf74c8336715d04627bda21018614a/jetified-CreditCardView-v1.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/31bf74c8336715d04627bda21018614a/jetified-CreditCardView-v1.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c6b5bb1c814370e4572bda4d1231a6f1/jetified-CreditCardView-v1.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c6b5bb1c814370e4572bda4d1231a6f1/jetified-CreditCardView-v1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/c6b5bb1c814370e4572bda4d1231a6f1/jetified-CreditCardView-v1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.sharish/CreditCardView/v1.0.4/72683a9659abaee7e46fd89291a9f57eb18fcd97/CreditCardView-v1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

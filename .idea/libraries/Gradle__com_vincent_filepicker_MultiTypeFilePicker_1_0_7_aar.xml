@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vincent.filepicker:MultiTypeFilePicker:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/f4e05c95f996751603c8d24cc740c555/jetified-MultiTypeFilePicker-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/f4e05c95f996751603c8d24cc740c555/jetified-MultiTypeFilePicker-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/f4e05c95f996751603c8d24cc740c555/jetified-MultiTypeFilePicker-1.0.7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/4ef781840ab76dd7f0a3cb98a14ab93e/jetified-MultiTypeFilePicker-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/4ef781840ab76dd7f0a3cb98a14ab93e/jetified-MultiTypeFilePicker-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/4ef781840ab76dd7f0a3cb98a14ab93e/jetified-MultiTypeFilePicker-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.vincent.filepicker/MultiTypeFilePicker/1.0.7/895ac998d946bf4935b3dd1ce530d556389ee3a1/MultiTypeFilePicker-1.0.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.vincent.filepicker/MultiTypeFilePicker/1.0.7/895ac998d946bf4935b3dd1ce530d556389ee3a1/MultiTypeFilePicker-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.vincent.filepicker/MultiTypeFilePicker/1.0.7/f0a57fd14fbacaaf2d31bf66a2b57a5b88f33e67/MultiTypeFilePicker-1.0.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.vincent.filepicker/MultiTypeFilePicker/1.0.7/f0a57fd14fbacaaf2d31bf66a2b57a5b88f33e67/MultiTypeFilePicker-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

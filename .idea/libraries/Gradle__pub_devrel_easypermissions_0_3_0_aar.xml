@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: pub.devrel:easypermissions:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b026f4991ec42db23169d71110ab5423/jetified-easypermissions-0.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b026f4991ec42db23169d71110ab5423/jetified-easypermissions-0.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/b026f4991ec42db23169d71110ab5423/jetified-easypermissions-0.3.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/ba2fd95604eae58d08697be61c9d816c/jetified-easypermissions-0.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/ba2fd95604eae58d08697be61c9d816c/jetified-easypermissions-0.3.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/ba2fd95604eae58d08697be61c9d816c/jetified-easypermissions-0.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/pub.devrel/easypermissions/0.3.0/fbcbfe8a871702db53e5be80e1f2da72c733655d/easypermissions-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

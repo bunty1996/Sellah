@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.journeyapps:zxing-android-embedded:3.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a7296f68f508702fdc608743c4e66d1d/jetified-zxing-android-embedded-3.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a7296f68f508702fdc608743c4e66d1d/jetified-zxing-android-embedded-3.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a7296f68f508702fdc608743c4e66d1d/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/88c91a547375137df54a159bb6029ec3/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/88c91a547375137df54a159bb6029ec3/jetified-zxing-android-embedded-3.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/88c91a547375137df54a159bb6029ec3/jetified-zxing-android-embedded-3.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.4.0/fbd59f49a0e7044be9751bc108ceec3c65aed849/zxing-android-embedded-3.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.4.0/fbd59f49a0e7044be9751bc108ceec3c65aed849/zxing-android-embedded-3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

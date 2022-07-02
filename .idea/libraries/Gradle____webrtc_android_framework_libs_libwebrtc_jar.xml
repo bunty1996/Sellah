@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./webrtc-android-framework/libs/libwebrtc.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webrtc-android-framework/libs/libwebrtc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

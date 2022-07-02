@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:beta:1.2.10@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/a0190fbd861bc5b9d198bc0fcf10eaab/beta-1.2.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

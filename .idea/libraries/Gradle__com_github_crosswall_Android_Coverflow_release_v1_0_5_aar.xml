@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.crosswall:Android-Coverflow:release-v1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/8f5a3babd92f0b587555ea2674552435/jetified-Android-Coverflow-release-v1.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/8f5a3babd92f0b587555ea2674552435/jetified-Android-Coverflow-release-v1.0.5/res" />
+      <root url="file://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/transforms-2/files-2.1/8f5a3babd92f0b587555ea2674552435/jetified-Android-Coverflow-release-v1.0.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/6437c84b55eb3e97f3097b73b14aa3c9/jetified-Android-Coverflow-release-v1.0.5/res" />
+      <root url="file://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/6437c84b55eb3e97f3097b73b14aa3c9/jetified-Android-Coverflow-release-v1.0.5/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/transforms-2/files-2.1/6437c84b55eb3e97f3097b73b14aa3c9/jetified-Android-Coverflow-release-v1.0.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Camera App/cameraapp_new/caches/modules-2/files-2.1/com.github.crosswall/Android-Coverflow/release-v1.0.5/f8dbd56614c573a928073dfe72b9048db01d2fec/Android-Coverflow-release-v1.0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../visionreallityrepo/caches/modules-2/files-2.1/com.github.crosswall/Android-Coverflow/release-v1.0.5/57a5e628c3a101514b4cffa033409e6fce1f6091/Android-Coverflow-release-v1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
